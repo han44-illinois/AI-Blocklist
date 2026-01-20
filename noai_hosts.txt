@@ -2310,3 +2310,4 @@
 0.0.0.0 chatlyai.app
 0.0.0.0 x.ai
 0.0.0.0 www.x.ai
+0.0.0.0 deep-seek.ai
