@@ -2301,4 +2301,9 @@
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
 
-
+# [Custom adds by han44]
+0.0.0.0 google.com 
+0.0.0.0 www.google.com
+0.0.0.0 gemini.google.com
+0.0.0.0 www.gemini.google.com
+0.0.0.0 use.ai
