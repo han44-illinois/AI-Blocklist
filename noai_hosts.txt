@@ -2312,3 +2312,4 @@
 0.0.0.0 www.x.ai
 0.0.0.0 deep-seek.ai
 0.0.0.0 deep-seek.com
+0.0.0.0 deepseek-en.com
